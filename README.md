@@ -125,7 +125,7 @@ Each student record can contain:
 
 ## 📂 Project Structure
 
-```text
+
 Student_Management_System/
 │
 ├── backend/
