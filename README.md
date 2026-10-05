@@ -123,7 +123,9 @@ Each student record can contain:
                     │    Student Data     │
                     └─────────────────────┘
 
-**📂 Project Structure**
+## 📂 Project Structure
+
+```text
 Student_Management_System/
 │
 ├── backend/
@@ -146,6 +148,7 @@ Student_Management_System/
 │
 ├── frontend/
 │   ├── public/
+│   │
 │   ├── src/
 │   │   ├── assets/
 │   │   ├── App.css
