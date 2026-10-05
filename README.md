@@ -217,11 +217,11 @@ Retrieves all student records from the database.
 
 Example request:
           {
-            "name": "John Doe",
-            "email": "john@example.com",
+            "name": "G S Netra",
+            "email": "netra@gmail.com",
             "phone": "9876543210",
             "course": "Computer Science",
-            "age": 21
+            "age": 22
           }
 
 3. Update a Student
