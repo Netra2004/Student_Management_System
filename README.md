@@ -369,8 +369,7 @@ https://github.com/Netra2004
 ⭐ Repository
 If you find this project useful or interesting, consider giving it a ⭐ star on GitHub.
 
-Project Repository:
-https://github.com/Netra2004/Student_Management_System
+🔗 GitHub Repository: https://github.com/Netra2004/Student_Management_System
 
 📄 License
 This project was developed for educational and development purposes.
