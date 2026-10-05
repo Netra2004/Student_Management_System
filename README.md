@@ -1,8 +1,8 @@
 # 🎓 Student Management System
 
-> A modern full-stack web application for managing student records efficiently through a clean, responsive, and user-friendly interface.
+> A modern full-stack web application for managing student records efficiently through a clean, responsive and user-friendly interface.
 
-The **Student Management System** is a full-stack CRUD application built to simplify student record management. It provides an intuitive React frontend connected to a RESTful Node.js and Express.js backend with MongoDB for persistent data storage.
+The **Student Management System** is a full-stack CRUD application built to simplify student record management. It provides an intuitive React frontend connected to a RESTful, Node.js and Express.js backend with MongoDB for persistent data storage.
 
 The application allows users to **add, view, update, and delete student records** through a simple and responsive interface.
 
