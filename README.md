@@ -123,7 +123,7 @@ Each student record can contain:
                     │    Student Data     │
                     └─────────────────────┘
 
-## 📂 Project Structure
+📂 Project Structure
 
 
 Student_Management_System/
